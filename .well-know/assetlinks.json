@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.joyjourney.PianoWhiteGo",
+    "sha256_cert_fingerprints":
+    ["4F:CB:0C:0D:50:85:E5:46:1A:0D:CB:35:31:92:D2:AB:27:7B:65:FC:3B:CE:49:09:47:D8:F0:8E:7C:DA:C4:7D"]
+  }
+}]
